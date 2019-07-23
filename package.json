@@ -40,7 +40,7 @@
     "fs-extra": "^7.0.1",
     "get-stdin": "^6.0.0",
     "jsonld": "^1.6.2",
-    "jsonld-signatures": "^4.1.2",
+    "jsonld-signatures": "github:digitalbazaar/jsonld-signatures#node-12",
     "semver": "^6.0.0",
     "supports-color": "^6.1.0"
   },
